@@ -5,7 +5,6 @@ import math
 import torch
 
 
-# Im new to github
 #test git push lin -- ignore
 
 fovh = 58
